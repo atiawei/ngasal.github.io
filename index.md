@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Fraud Detection](/sample_page)
-<img src="images/download (1).jpg?raw=true"/>
+<img src="images/download (1).png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
